@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/AnastasiaVasileva/frontend-project-12/blob/main/.github/workflows/hexlet-check.yml/badge.svg)](https://github.com/AnastasiaVasileva/frontend-project-12/actions)
